@@ -1,6 +1,8 @@
 # SimpleWebSocket
 Simple WebSocket Client for GDAX
+
 Микро-приложение, WebSocket Client для GDAX (coinbase.com)
+
 Отображает цену на биткоин в реальном времени.
 
 # Preview
